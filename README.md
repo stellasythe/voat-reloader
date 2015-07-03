@@ -3,7 +3,7 @@ Chrome extension to automaticaly reload [voat.co](https://voat.co) when the "the
 
 ## installation
 - Download the .crx file [here](https://github.com/antedeguemon/voat-reloader/blob/master/bin/voat.crx?raw=true)
-- Access chrome://chrome/extension
+- Access chrome://chrome/extensions
 - Drag it from your downloads folder into Chrome
 Or you can follow [this tutorial](http://www.howtogeek.com/120743/how-to-install-extensions-from-outside-the-chrome-web-store/).
 
