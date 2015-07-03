@@ -1,2 +1,2 @@
 # voat-reloader
-Chrome extension to automaticaly reload voat.com when the error "The service is unavailable." appears.
+Chrome extension to automaticaly reload [voat.co](voat.co) when the "the service is unavailable" error appears.
